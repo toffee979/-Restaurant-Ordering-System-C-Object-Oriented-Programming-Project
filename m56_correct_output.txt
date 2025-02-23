@@ -1,0 +1,15 @@
+
+Testing Invalid Ordering if bad data is in data file!
+Passed!
+Testing fool proofint...............................
+      Drink Menu
+       1- Pepsi
+       2- Orange Juice
+       3- Coffee
+       0- Back to Order
+      > 
+You must enter a value: -1
+Invalid value: [0<= value <=3], try again: 4
+Invalid value: [0<= value <=3], try again: abc
+Invalid integer: 123abc
+Only an integer please: 0

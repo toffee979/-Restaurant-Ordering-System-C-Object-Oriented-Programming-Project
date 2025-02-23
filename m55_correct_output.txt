@@ -1,0 +1,76 @@
+
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 1
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 2
+      Drink Menu
+       1- Pepsi
+       2- Orange Juice
+       3- Coffee
+       0- Back to Order
+      > 2
+         Drink Size Selection
+          1- Small
+          2- Medium
+          3- Larg
+          4- Extra Large
+          0- Back
+         > 2
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 0
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 2
+Bill # 001 =============================
+Orange Juice................MID..   2.62
+                     Total:         2.62
+                     Tax:           0.34
+                     Total+Tax:     2.97
+========================================
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 0
+You have bills that are not saved, are you sue you want to exit?
+ 1- Yes
+ 0- No
+> 0
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 3
+Saved bill number 1
+Starting bill number 2
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 0

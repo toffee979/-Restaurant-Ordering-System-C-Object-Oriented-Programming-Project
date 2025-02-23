@@ -1,0 +1,103 @@
+
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 1
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 1
+      Food Menu
+       1- Hamberger
+       2- Cheese Burger
+       3- Veggie Burger
+       4- Hot Dog
+       5- Pasta with Tomato sauce
+       6- Fries
+       7- Poutine with beef
+       8- Poutine
+       0- Back to Order
+      > 1
+         Food Size Selection
+          1- Adult
+          2- Child
+          0- Back
+         > 2
+Special instructions
+> well done
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 2
+      Drink Menu
+       1- Pepsi
+       2- Orange Juice
+       3- Coffee
+       0- Back to Order
+      > 2
+         Drink Size Selection
+          1- Small
+          2- Medium
+          3- Larg
+          4- Extra Large
+          0- Back
+         > 1
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 1
+      Food Menu
+       1- Hamberger
+       2- Cheese Burger
+       3- Veggie Burger
+       4- Hot Dog
+       5- Pasta with Tomato sauce
+       6- Fries
+       7- Poutine with beef
+       8- Poutine
+       0- Back to Order
+      > 6
+         Food Size Selection
+          1- Adult
+          2- Child
+          0- Back
+         > 1
+Special instructions
+> 
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 0
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 2
+Bill # 001 =============================
+Hamberger...................Child   6.00 >> well done
+Orange Juice................SML..   1.75
+Fries.......................Adult   5.00
+                     Total:        12.75
+                     Tax:           1.66
+                     Total+Tax:    14.41
+========================================
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 0
+

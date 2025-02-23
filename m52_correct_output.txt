@@ -1,0 +1,87 @@
+
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 1
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 2
+      Drink Menu
+       1- Pepsi
+       2- Orange Juice
+       3- Coffee
+       0- Back to Order
+      > 2
+         Drink Size Selection
+          1- Small
+          2- Medium
+          3- Larg
+          4- Extra Large
+          0- Back
+         > 3
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 2
+      Drink Menu
+       1- Pepsi
+       2- Orange Juice
+       3- Coffee
+       0- Back to Order
+      > 0
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 2
+      Drink Menu
+       1- Pepsi
+       2- Orange Juice
+       3- Coffee
+       0- Back to Order
+      > 1
+         Drink Size Selection
+          1- Small
+          2- Medium
+          3- Larg
+          4- Extra Large
+          0- Back
+         > 0
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 2
+      Drink Menu
+       1- Pepsi
+       2- Orange Juice
+       3- Coffee
+       0- Back to Order
+      > 3
+         Drink Size Selection
+          1- Small
+          2- Medium
+          3- Larg
+          4- Extra Large
+          0- Back
+         > 1
+   Order Menu
+    1- Food
+    2- Drink
+    0- Back to main menu
+   > 0
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 0

@@ -1,0 +1,41 @@
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 4
+List Of Avaiable Meals
+========================================
+Hamberger........................  12.00
+Cheese Burger....................  13.50
+Veggie Burger....................  14.50
+Hot Dog..........................   6.00
+Pasta with Tomato sauce..........  15.50
+Fries............................   5.00
+Poutine with beef................   7.00
+Poutine..........................   6.00
+========================================
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 5
+List Of Avaiable Drinks
+========================================
+Pepsi............................   4.50
+Orange Juice.....................   3.50
+Coffee...........................   5.00
+========================================
+Seneca Restaurant 
+ 1- Order
+ 2- Print Bill
+ 3- Start a New Bill
+ 4- List Foods
+ 5- List Drinks
+ 0- End Program
+> 0
